@@ -1,5 +1,7 @@
+import { NftCard } from './NftCard';
+import { ipfsToHttp } from './ipfs';
 import { useState, useEffect, useCallback } from 'react';
-import { useWallet } from '../contexts/WalletContext';
+import { useWallet } from '../../contexts/WalletContext';
 import { getUserTokens, getNFTInfo } from '../utils/contracts';
 import toast from 'react-hot-toast';
 
