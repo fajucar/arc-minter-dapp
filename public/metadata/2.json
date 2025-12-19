@@ -1,0 +1,18 @@
+{
+  "name": "Arc Guardian",
+  "description": "A guardian protecting the Arc ecosystem. The Guardian represents the security and stability that Arc Network provides.",
+  "image": "https://PLACEHOLDER_URL/images/guardian.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Guardian"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
+
+
+

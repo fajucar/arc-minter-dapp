@@ -1,0 +1,20 @@
+{
+  "name": "Arc Genesis #4",
+  "description": "Arc Genesis collection on Arc Testnet. Minted via Arc Minter dApp.",
+  "image": "http://localhost:3000/arc-nfts/arc4.png",
+  "external_url": "http://localhost:3000",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Arc Genesis"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "4/5"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Arc Testnet"
+    }
+  ]
+}
